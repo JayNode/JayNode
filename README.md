@@ -2,9 +2,9 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/raaamonnn/raaamonnn"/> 
- <img src="https://badges.pufler.dev/repos/raaamonnn"/>
- <img src="https://badges.pufler.dev/commits/monthly/raaamonnn" />
+ <img src="https://badges.pufler.dev/visits/JayNode/JayNode"/> 
+ <img src="https://badges.pufler.dev/repos/JayNode"/>
+ <img src="https://badges.pufler.dev/commits/monthly/JayNode" />
 </p>
 
 <!--
