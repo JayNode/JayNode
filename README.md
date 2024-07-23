@@ -10,8 +10,8 @@
 <p align="center">
 I am a software engineer with an entrepreneurial drive. I am seeking to join a mission-driven team that is undertaking challenging, change-making problems. I am incredibly passionate about developing Web applications and data analysis. This passion is demonstrated through several personal projects.
 </p>
-<h1 align="center"><a href="https://raaamonnn.github.io/">My Portfolio</a></h1>
-<h2 align="center">Technology Stack <img src="https://github.com/raaamonnn/raaamonnn/blob/main/assets/laptop.gif" width="50"></h2>
+<h1 align="center"><a href="">My Portfolio</a></h1>
+<h2 align="center">Technology Stack <img src="https://github.com/JayNode/JayNode/blob/main/assets/laptop.gif" width="50"></h2>
 
 <!--
 **JayNode/JayNode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
