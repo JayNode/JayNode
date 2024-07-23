@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/raaamonnn/raaamonnn"/> 
+ <img src="https://badges.pufler.dev/repos/raaamonnn"/>
+ <img src="https://badges.pufler.dev/commits/monthly/raaamonnn" />
+</p>
+
 <!--
 **JayNode/JayNode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
