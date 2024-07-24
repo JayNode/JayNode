@@ -15,10 +15,10 @@ I am a software engineer with an entrepreneurial drive. I am seeking to join a m
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
+
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
