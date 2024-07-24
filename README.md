@@ -13,13 +13,10 @@ I am a software engineer with an entrepreneurial drive. I am seeking to join a m
 <h1 align="center"><a href="">My Portfolio</a></h1>
 <p align="center">
 
-| First Header  | Second Header |
+| Languages  | Second Header |
 | ------------- | ------------- |
 | <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
- <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+| <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> | Content Cell |
  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
