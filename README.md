@@ -15,11 +15,11 @@ I am a software engineer with an entrepreneurial drive. I am seeking to join a m
 
 | Languages  | Frameworks | Tools/Other |
 | :------------- | :------------- | :------------- |
-| <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>  | <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>  | <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/> |
-| <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> | <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/> | temp |
-| <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> | Content Cell | temp |
-| <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> | Content Cell | temp |
-| <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/> | Content Cell | temp |
+| <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> 
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> 
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/> | temp | testing |
 
 
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
@@ -30,5 +30,8 @@ I am a software engineer with an entrepreneurial drive. I am seeking to join a m
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/> 
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 </p>
 
