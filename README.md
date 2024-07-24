@@ -14,7 +14,7 @@ I am a software engineer with an entrepreneurial drive. I am seeking to join a m
 <p align="center">
 
 | Languages  | Second Header |
-| ------------- | ------------- |
+| :------------- | ------------- |
 | <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>  | Content Cell  |
 | <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> | Content Cell |
  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
