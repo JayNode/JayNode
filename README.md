@@ -15,14 +15,13 @@ I am a software engineer with an entrepreneurial drive. I am seeking to join a m
 
 | Languages  | Frameworks | Tools/Other |
 | :------------- | :------------- | :------------- |
-| <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> 
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/> | temp | testing |
+| <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/> | temp | testing |
+| <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> | temp | testing |
+| <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> | temp | testing |
+| <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> | temp | testing |
+| <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/> | temp | testing |
+| <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/> | temp | testing |
 
-
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 
 <img src="https://img.shields.io/badge/-Agile/Scrum-black?style=flat-square&logo=scrum"/>
