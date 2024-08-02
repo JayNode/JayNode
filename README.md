@@ -47,7 +47,7 @@ I am a software engineer with an entrepreneurial drive. I am seeking to join a m
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=JayNode&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JayNode&hide=python&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JayNode&theme=radical">
 </p>
 
 <p align = "center">
