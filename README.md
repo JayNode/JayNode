@@ -31,14 +31,6 @@ I am a software engineer with an entrepreneurial drive. I am seeking to join a m
  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jared-immerman" />
-<img src="https://img.shields.io/badge/Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:jimmerman819@gmail.com" />
-<img src="https://img.shields.io/badge/-jaredimmerman-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jaredimmerman" />
-</p>
-
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
