@@ -10,7 +10,7 @@
 <p align="center">
 I am a software engineer with an entrepreneurial drive. I am seeking to join a mission-driven team that is undertaking challenging, change-making problems. I am incredibly passionate about developing Web applications and data analysis. This passion is demonstrated through several personal projects.
 </p>
-<h1 align="center"><a href="">My Portfolio</a></h1>
+<h1 align="center"><a href="JayNode.github.io">My Portfolio</a></h1>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
