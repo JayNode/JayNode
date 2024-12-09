@@ -4,7 +4,7 @@
  
  <img src="https://badges.pufler.dev/visits/JayNode/JayNode"/> 
  <img src="https://badges.pufler.dev/repos/JayNode"/>
- <img src="https://badges.pufler.dev/commits/monthly/JayNode" />
+
 </p>
 
 <p align="center">
