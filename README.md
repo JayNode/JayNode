@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-I am a software engineer with an entrepreneurial drive. I am seeking to join a mission-driven team that is undertaking challenging, change-making problems. I am incredibly passionate about developing Web applications and data analysis. This passion is demonstrated through several personal projects.
+I am a software engineer with an entrepreneurial drive and a passion for art. I am eager to join a mission-driven team tackling complex and impactful challenges. I am incredibly passionate about UX/UI, Web Applications and Frontend Development. This passion is demonstrated through my education, personal projects and work experience.
 </p>
 <h1 align="center"><a href="http://JayNode.github.io">My Portfolio</a></h1>
 
